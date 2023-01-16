@@ -15,7 +15,7 @@ Também consulta a api IPAPI (https://ipapi.com) para a obtenção de informaç�
 ### Uso
 
 1. Mova para os arquivos 'eml' para a pasta de trabalho ('/content/').
-    > Opcionalmente, com o uso do MS Outlook, exporte um lote de emails no formato 'txt'. O programa dará preferência à leitura desse tipo de arquivo.
+    > Opcionalmente, com o uso do MS Outlook, exporte um lote de emails no formato 'txt' (importante: codificação *ASCII*). O programa dará preferência à leitura desse tipo de arquivo.
     > Certifique-se de que o arquivo txt gerado ou os e-mails carregados dizem respeito ao mesmo alvo.
 1. Rode a aplicação.
 - O programa perguntará:
